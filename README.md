@@ -1,2 +1,2 @@
-# Java_Beginner
-Java_Beginner
+# Java 練習系列
+這是我整理的 Java 練習專案，包含從基本語法主題的範例與練習程式：

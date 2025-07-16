@@ -1,0 +1,3 @@
+ABC123,Toyota,Red
+XYZ789,Honda,Blue
+JKL456,Ford,Black
